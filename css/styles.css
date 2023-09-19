@@ -1,0 +1,48 @@
+html {
+  background-color: #000;
+  color: #8fb93f;
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+body {
+  margin: 0;
+  padding: 16px;
+}
+
+a, a.visited, a.active {
+  color: #99ce36;
+  font-weight: bold;
+  text-decoration: none;	
+}
+
+h1 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+section {
+  margin-bottom: 32px;
+}
+
+section > h2 {
+  margin: 0;
+  margin-bottom: 16px;
+  font-size: 1rem;
+}
+
+section p {
+  padding-left: 64px;
+  margin: 0;
+}
+
+section > ul {
+  list-style: none;
+}
+
+section li {
+  margin-bottom: 32px;
+}
